@@ -1,0 +1,16 @@
+C:\Users\YL\source\repos\Atelier12\Atelier12\bin\Debug\Atelier12.exe.config
+C:\Users\YL\source\repos\Atelier12\Atelier12\bin\Debug\Atelier12.exe
+C:\Users\YL\source\repos\Atelier12\Atelier12\bin\Debug\Atelier12.pdb
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.Form1.resources
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.exe
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.pdb
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.Form2_Ajout_S.resources
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.Form3_Supprim.resources
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.Form4_consulta.resources
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.Form5.resources
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.Form6.resources
+C:\Users\YL\source\repos\Atelier12\Atelier12\obj\Debug\Atelier12.Form7.resources

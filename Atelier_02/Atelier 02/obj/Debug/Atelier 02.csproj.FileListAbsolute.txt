@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\bin\Debug\Atelier 02.exe.config
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\bin\Debug\Atelier 02.exe
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\bin\Debug\Atelier 02.pdb
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\obj\Debug\Atelier 02.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\obj\Debug\Atelier_02.Form1.resources
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\obj\Debug\Atelier_02.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\obj\Debug\Atelier 02.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\obj\Debug\Atelier 02.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\obj\Debug\Atelier 02.exe
+C:\Users\YL\source\repos\Atelier 02\Atelier 02\obj\Debug\Atelier 02.pdb

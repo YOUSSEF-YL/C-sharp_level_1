@@ -1,0 +1,11 @@
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\bin\Debug\Atelier 14.exe.config
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\bin\Debug\Atelier 14.exe
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\bin\Debug\Atelier 14.pdb
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\obj\Debug\Atelier 14.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\obj\Debug\Atelier_14.Form1.resources
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\obj\Debug\Atelier_14.Form2.resources
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\obj\Debug\Atelier_14.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\obj\Debug\Atelier 14.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\obj\Debug\Atelier 14.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\obj\Debug\Atelier 14.exe
+C:\Users\YL\source\repos\Atelier 14\Atelier 14\obj\Debug\Atelier 14.pdb

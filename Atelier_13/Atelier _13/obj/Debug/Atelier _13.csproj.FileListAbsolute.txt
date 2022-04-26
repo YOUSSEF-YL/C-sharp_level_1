@@ -1,0 +1,20 @@
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\bin\Debug\Atelier _13.exe.config
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\bin\Debug\Atelier _13.exe
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\bin\Debug\Atelier _13.pdb
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier__13.Form1.resources
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier__13.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.exe
+C:\Users\YL\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.pdb
+E:\code\source\repos\Atelier _13\Atelier _13\bin\Debug\Atelier _13.exe.config
+E:\code\source\repos\Atelier _13\Atelier _13\bin\Debug\Atelier _13.exe
+E:\code\source\repos\Atelier _13\Atelier _13\bin\Debug\Atelier _13.pdb
+E:\code\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.csproj.AssemblyReference.cache
+E:\code\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier__13.Form1.resources
+E:\code\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier__13.Properties.Resources.resources
+E:\code\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.csproj.GenerateResource.cache
+E:\code\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.csproj.CoreCompileInputs.cache
+E:\code\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.exe
+E:\code\source\repos\Atelier _13\Atelier _13\obj\Debug\Atelier _13.pdb

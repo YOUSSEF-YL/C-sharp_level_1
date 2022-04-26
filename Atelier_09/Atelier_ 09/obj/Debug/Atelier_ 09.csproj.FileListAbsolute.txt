@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\bin\Debug\Atelier_ 09.exe.config
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\bin\Debug\Atelier_ 09.exe
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\bin\Debug\Atelier_ 09.pdb
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\obj\Debug\Atelier_ 09.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\obj\Debug\Atelier__09.Form1.resources
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\obj\Debug\Atelier__09.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\obj\Debug\Atelier_ 09.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\obj\Debug\Atelier_ 09.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\obj\Debug\Atelier_ 09.exe
+C:\Users\YL\source\repos\Atelier_ 09\Atelier_ 09\obj\Debug\Atelier_ 09.pdb

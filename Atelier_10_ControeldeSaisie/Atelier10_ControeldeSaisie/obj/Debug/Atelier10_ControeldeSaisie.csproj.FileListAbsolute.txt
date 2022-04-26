@@ -1,0 +1,11 @@
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\bin\Debug\Atelier10_ControeldeSaisie.exe.config
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\bin\Debug\Atelier10_ControeldeSaisie.exe
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\bin\Debug\Atelier10_ControeldeSaisie.pdb
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\obj\Debug\Atelier10_ControeldeSaisie.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\obj\Debug\Atelier10_ControeldeSaisie.Form1.resources
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\obj\Debug\Atelier10_ControeldeSaisie.Form2.resources
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\obj\Debug\Atelier10_ControeldeSaisie.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\obj\Debug\Atelier10_ControeldeSaisie.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\obj\Debug\Atelier10_ControeldeSaisie.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\obj\Debug\Atelier10_ControeldeSaisie.exe
+C:\Users\YL\source\repos\Atelier10_ControeldeSaisie\Atelier10_ControeldeSaisie\obj\Debug\Atelier10_ControeldeSaisie.pdb

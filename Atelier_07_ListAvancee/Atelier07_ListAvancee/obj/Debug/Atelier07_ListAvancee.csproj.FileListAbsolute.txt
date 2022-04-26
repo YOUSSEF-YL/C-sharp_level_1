@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\bin\Debug\Atelier07_ListAvancee.exe.config
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\bin\Debug\Atelier07_ListAvancee.exe
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\bin\Debug\Atelier07_ListAvancee.pdb
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\obj\Debug\Atelier07_ListAvancee.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\obj\Debug\Atelier07_ListAvancee.Form1.resources
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\obj\Debug\Atelier07_ListAvancee.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\obj\Debug\Atelier07_ListAvancee.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\obj\Debug\Atelier07_ListAvancee.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\obj\Debug\Atelier07_ListAvancee.exe
+C:\Users\YL\source\repos\Atelier07_ListAvancee\Atelier07_ListAvancee\obj\Debug\Atelier07_ListAvancee.pdb

@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\bin\Debug\Atelier06_ RadioBoutton.exe.config
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\bin\Debug\Atelier06_ RadioBoutton.exe
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\bin\Debug\Atelier06_ RadioBoutton.pdb
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\obj\Debug\Atelier06_ RadioBoutton.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\obj\Debug\Atelier06__RadioBoutton.Form1.resources
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\obj\Debug\Atelier06__RadioBoutton.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\obj\Debug\Atelier06_ RadioBoutton.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\obj\Debug\Atelier06_ RadioBoutton.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\obj\Debug\Atelier06_ RadioBoutton.exe
+C:\Users\YL\source\repos\Atelier06_ RadioBoutton\Atelier06_ RadioBoutton\obj\Debug\Atelier06_ RadioBoutton.pdb

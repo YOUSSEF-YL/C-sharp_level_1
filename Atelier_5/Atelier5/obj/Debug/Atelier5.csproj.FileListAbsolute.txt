@@ -1,0 +1,14 @@
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.Menu.resources
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.SommForm.resources
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier5\Atelier5\bin\Debug\Atelier5.exe.config
+C:\Users\YL\source\repos\Atelier5\Atelier5\bin\Debug\Atelier5.exe
+C:\Users\YL\source\repos\Atelier5\Atelier5\bin\Debug\Atelier5.pdb
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.exe
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.pdb
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.Division.resources
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.Difference.resources
+C:\Users\YL\source\repos\Atelier5\Atelier5\obj\Debug\Atelier5.Produit.resources

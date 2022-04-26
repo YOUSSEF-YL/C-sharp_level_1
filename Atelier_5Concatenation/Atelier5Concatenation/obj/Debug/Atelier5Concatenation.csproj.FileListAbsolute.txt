@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\bin\Debug\Atelier5Concatenation.exe.config
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\bin\Debug\Atelier5Concatenation.exe
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\bin\Debug\Atelier5Concatenation.pdb
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\obj\Debug\Atelier5Concatenation.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\obj\Debug\Atelier5Concatenation.Form1.resources
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\obj\Debug\Atelier5Concatenation.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\obj\Debug\Atelier5Concatenation.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\obj\Debug\Atelier5Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\obj\Debug\Atelier5Concatenation.exe
+C:\Users\YL\source\repos\Atelier5Concatenation\Atelier5Concatenation\obj\Debug\Atelier5Concatenation.pdb

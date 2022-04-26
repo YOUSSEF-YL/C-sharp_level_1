@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\bin\Debug\Atelier06_Combobox.exe.config
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\bin\Debug\Atelier06_Combobox.exe
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\bin\Debug\Atelier06_Combobox.pdb
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\obj\Debug\Atelier06_Combobox.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\obj\Debug\Atelier06_Combobox.Form1.resources
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\obj\Debug\Atelier06_Combobox.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\obj\Debug\Atelier06_Combobox.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\obj\Debug\Atelier06_Combobox.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\obj\Debug\Atelier06_Combobox.exe
+C:\Users\YL\source\repos\Atelier06_Combobox\Atelier06_Combobox\obj\Debug\Atelier06_Combobox.pdb

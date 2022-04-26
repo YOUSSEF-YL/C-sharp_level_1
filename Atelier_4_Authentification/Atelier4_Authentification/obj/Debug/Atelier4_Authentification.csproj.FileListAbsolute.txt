@@ -1,0 +1,11 @@
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\bin\Debug\Atelier4_Authentification.exe.config
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\bin\Debug\Atelier4_Authentification.exe
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\bin\Debug\Atelier4_Authentification.pdb
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\obj\Debug\Atelier4_Authentification.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\obj\Debug\Atelier4_Authentification.Form1.resources
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\obj\Debug\Atelier4_Authentification.Form2.resources
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\obj\Debug\Atelier4_Authentification.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\obj\Debug\Atelier4_Authentification.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\obj\Debug\Atelier4_Authentification.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\obj\Debug\Atelier4_Authentification.exe
+C:\Users\YL\source\repos\Atelier4_Authentification\Atelier4_Authentification\obj\Debug\Atelier4_Authentification.pdb

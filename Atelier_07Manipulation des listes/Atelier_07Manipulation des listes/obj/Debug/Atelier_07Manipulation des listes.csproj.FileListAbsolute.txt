@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\bin\Debug\Atelier_07Manipulation des listes.exe.config
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\bin\Debug\Atelier_07Manipulation des listes.exe
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\bin\Debug\Atelier_07Manipulation des listes.pdb
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\obj\Debug\Atelier_07Manipulation des listes.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\obj\Debug\Atelier_07Manipulation_des_listes.Form1.resources
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\obj\Debug\Atelier_07Manipulation_des_listes.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\obj\Debug\Atelier_07Manipulation des listes.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\obj\Debug\Atelier_07Manipulation des listes.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\obj\Debug\Atelier_07Manipulation des listes.exe
+C:\Users\YL\source\repos\Atelier_07Manipulation des listes\Atelier_07Manipulation des listes\obj\Debug\Atelier_07Manipulation des listes.pdb

@@ -1,0 +1,13 @@
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\bin\Debug\Atelier 15.exe.config
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\bin\Debug\Atelier 15.exe
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\bin\Debug\Atelier 15.pdb
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier 15.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier_15.Form1.resources
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier_15.Form2.resources
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier_15.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier 15.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier 15.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier 15.exe
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier 15.pdb
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier_15.Form3.resources
+C:\Users\YL\source\repos\Atelier 15\Atelier 15\obj\Debug\Atelier_15.Form4.resources

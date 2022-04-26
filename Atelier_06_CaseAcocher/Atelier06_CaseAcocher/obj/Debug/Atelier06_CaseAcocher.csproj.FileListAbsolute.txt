@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\bin\Debug\Atelier06_CaseAcocher.exe.config
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\bin\Debug\Atelier06_CaseAcocher.exe
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\bin\Debug\Atelier06_CaseAcocher.pdb
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\obj\Debug\Atelier06_CaseAcocher.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\obj\Debug\Atelier06_CaseAcocher.Form1.resources
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\obj\Debug\Atelier06_CaseAcocher.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\obj\Debug\Atelier06_CaseAcocher.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\obj\Debug\Atelier06_CaseAcocher.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\obj\Debug\Atelier06_CaseAcocher.exe
+C:\Users\YL\source\repos\Atelier06_CaseAcocher\Atelier06_CaseAcocher\obj\Debug\Atelier06_CaseAcocher.pdb

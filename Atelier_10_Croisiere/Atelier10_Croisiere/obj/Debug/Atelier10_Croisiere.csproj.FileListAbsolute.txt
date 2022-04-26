@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\bin\Debug\Atelier10_Croisiere.exe.config
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\bin\Debug\Atelier10_Croisiere.exe
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\bin\Debug\Atelier10_Croisiere.pdb
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\obj\Debug\Atelier10_Croisiere.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\obj\Debug\Atelier10_Croisiere.Form1.resources
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\obj\Debug\Atelier10_Croisiere.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\obj\Debug\Atelier10_Croisiere.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\obj\Debug\Atelier10_Croisiere.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\obj\Debug\Atelier10_Croisiere.exe
+C:\Users\YL\source\repos\Atelier10_Croisiere\Atelier10_Croisiere\obj\Debug\Atelier10_Croisiere.pdb

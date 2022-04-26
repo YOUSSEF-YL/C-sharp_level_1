@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\bin\Debug\Atelier06ListBox.exe.config
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\bin\Debug\Atelier06ListBox.exe
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\bin\Debug\Atelier06ListBox.pdb
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\obj\Debug\Atelier06ListBox.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\obj\Debug\Atelier06ListBox.Form1.resources
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\obj\Debug\Atelier06ListBox.Properties.Resources.resources
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\obj\Debug\Atelier06ListBox.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\obj\Debug\Atelier06ListBox.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\obj\Debug\Atelier06ListBox.exe
+C:\Users\YL\source\repos\Atelier06ListBox\Atelier06ListBox\obj\Debug\Atelier06ListBox.pdb
