@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\bin\Debug\Cases_a_cocher.exe.config
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\bin\Debug\Cases_a_cocher.exe
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\bin\Debug\Cases_a_cocher.pdb
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\obj\Debug\Cases_a_cocher.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\obj\Debug\Cases_a_cocher.Form1.resources
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\obj\Debug\Cases_a_cocher.Properties.Resources.resources
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\obj\Debug\Cases_a_cocher.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\obj\Debug\Cases_a_cocher.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\obj\Debug\Cases_a_cocher.exe
+C:\Users\YL\source\repos\Cases_a_cocher\Cases_a_cocher\obj\Debug\Cases_a_cocher.pdb

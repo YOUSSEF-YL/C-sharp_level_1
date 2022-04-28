@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atelier5_Calculette", "Calculette\Atelier5_Calculette.csproj", "{6ABA819B-2218-4F29-9319-383991F3840B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABA819B-2218-4F29-9319-383991F3840B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABA819B-2218-4F29-9319-383991F3840B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABA819B-2218-4F29-9319-383991F3840B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABA819B-2218-4F29-9319-383991F3840B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B696E8E4-2AF2-4213-ABC1-305A65A5C735}
+	EndGlobalSection
+EndGlobal

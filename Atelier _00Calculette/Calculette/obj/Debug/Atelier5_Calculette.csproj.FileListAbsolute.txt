@@ -1,0 +1,10 @@
+C:\Users\YL\source\repos\Calculette\Calculette\bin\Debug\Calculette.exe.config
+C:\Users\YL\source\repos\Calculette\Calculette\bin\Debug\Calculette.exe
+C:\Users\YL\source\repos\Calculette\Calculette\bin\Debug\Calculette.pdb
+C:\Users\YL\source\repos\Calculette\Calculette\obj\Debug\Atelier5_Calculette.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Calculette\Calculette\obj\Debug\Calculette.Form1.resources
+C:\Users\YL\source\repos\Calculette\Calculette\obj\Debug\Calculette.Properties.Resources.resources
+C:\Users\YL\source\repos\Calculette\Calculette\obj\Debug\Atelier5_Calculette.csproj.GenerateResource.cache
+C:\Users\YL\source\repos\Calculette\Calculette\obj\Debug\Atelier5_Calculette.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Calculette\Calculette\obj\Debug\Calculette.exe
+C:\Users\YL\source\repos\Calculette\Calculette\obj\Debug\Calculette.pdb
